@@ -1,0 +1,25 @@
+.logo{
+	height: 100px;
+}
+.header-container{
+	background:#F4EFE9;
+}
+.service-container{
+	background:#F4EFE9;
+}
+html,body{
+	width: 100%;
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	overflow-x: hidden;
+}
+h3 {
+    font-size: 40px;
+}
+.btn-brand {
+    border: 1px solid #ddd;
+    border-radius: 30px;
+	padding: 10px 40px;
+	font-weight: 500;
+}
